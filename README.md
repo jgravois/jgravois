@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [John Gravois](https://johngravois.com/resume)! I'm building https://scripto.live and live in Riverside, California. :mountain_bicyclist: 
+I'm [John Gravois](https://johngravois.com/resume)! I'm building https://scripto.live and live in San Juan Capistrano, California. :mountain_bicyclist: 
 
 When I was a Software Engineer on the [ArcGIS Hub](https://hub.arcgis.com) team at [Esri Inc.](https://esri.com) I maintained some neat Leaflet plugins and coordinated with other developers across the company to steer Open Source strategy. 
 
