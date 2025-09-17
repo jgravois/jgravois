@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [John Gravois](https://johngravois.com/resume)! I'm building [scripto.live](https://www.scripto.live) and live in Southern California. :mountain_bicyclist: 
+I'm [John Gravois](https://johngravois.com/resume)! I'm building [benefits.calitp.org](https://benefits.calitp.org/) and live in Southern California. 🚌 :mountain_bicyclist: 
 
-When I was a Software Engineer on the [ArcGIS Hub](https://hub.arcgis.com) team at [Esri Inc.](https://esri.com) I maintained some neat Leaflet plugins and coordinated with other developers across the company to steer Open Source strategy. 
+When I was a Software Engineer on the [ArcGIS Hub](https://hub.arcgis.com) team at [Esri Inc.](https://esri.com) I maintained some neat Leaflet plugins and coordinated with other developers across the company to steer open source strategy. 
 
 I have a tattoo of a California Raisin and when I'm not in front of a computer you can often find me tangled up in poison oak somewhere near my mountain bike.
 
